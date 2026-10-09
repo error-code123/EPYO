@@ -1,6 +1,6 @@
 namespace EPYO.tarefa
 {
-	pubic class Animal
+	pubic class Tarefa
 	{
 		public string Titulo { get; set; }
 		public string Descricao { get; set; }
