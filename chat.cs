@@ -1,4 +1,4 @@
-namespace EPYO.chat
+namespace EPYO.Models
 {
    public class chat
    {
