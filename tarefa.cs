@@ -1,4 +1,4 @@
-namespace EPYO.tarefa
+namespace EPYO.Models
 {
 	pubic class Tarefa
 	{
